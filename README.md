@@ -8,3 +8,6 @@ Lors de cette première séance, nous nous sommes penchés sur l'installation de
 ## Séance du 15/10/2020
 
 **Première partie de la séance :** Nous avons étudié et compris le fonctionnement de `SMARTY` <br/>
+
+**Deuxième étape :** Nous avons créé la base de donnée pour notre site WEB, et par la suite, nous avons testé la connexion de notre page `config_init.php` à la base de donnée créée juste avant </br>
+
