@@ -12,3 +12,5 @@ Lors de cette première séance, nous nous sommes penchés sur l'installation de
 **Deuxième étape :** Nous avons créé la base de donnée pour notre site WEB, et par la suite, nous avons testé la connexion de notre page `config_init.php` à la base de donnée créée juste avant </br>
 
 **Troisième étape:** Nous avons fait le lien entre nos environnements de travail VSCode et le GitHub <br/>
+
+**Quatrième étape :** Nous avons été confronté à un pb avec `SMARTY` qui est un soucis de requête dans le PHP <br/>
