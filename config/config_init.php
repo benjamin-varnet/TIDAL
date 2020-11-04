@@ -15,14 +15,24 @@ foreach ($files as $filename)
         require_once(_CORE_.$filename);
 }
 
-// Connexion Database
-try {
-$bdd = new PDO("mysql:host=localhost;dbname=shop_goneix", "root", "root");
-$bdd->query("SET NAMES UTF8");
-} catch (Exception $e) {
-    echo "Something went wrong with the connection to GoneIX Database";
-    die();
-}
+$host = "localhost";
+$database_name = "shop_goneix";
+$username = "root";
+$password = "root";
+$connexion;
+
+  //Connexion a la Database
+function getConnection(){
+    $this->connexion = null;
+
+    try{
+      $this->connexion = new PDO("mysql:host=" . $this->host . ";dbname=" . $this->database_name, $this->username, $this->password);
+    }catch(PDOException $exception){
+      echo "Connection error: " . $exception->getMessage();
+    }
+
+    return $this->connexion;
+  }
 
 // Initialisation Smarty
 $smarty = new Smarty();

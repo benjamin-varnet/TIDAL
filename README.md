@@ -14,3 +14,5 @@ Lors de cette première séance, nous nous sommes penchés sur l'installation de
 **Troisième étape:** Nous avons fait le lien entre nos environnements de travail VSCode et le GitHub <br/>
 
 **Quatrième étape :** Nous avons été confronté à un pb avec `SMARTY` qui est un soucis de requête dans le PHP <br/>
+
+toto <br/>

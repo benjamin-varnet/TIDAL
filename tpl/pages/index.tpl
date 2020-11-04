@@ -1,3 +1,3 @@
-<div>
-      Le contenu de notre page index.tpl
-</div>
+{include file='../header.tpl title="Homepage"}
+index template code
+{inclide file='footer.tpl'}
