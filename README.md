@@ -15,4 +15,12 @@ Lors de cette première séance, nous nous sommes penchés sur l'installation de
 
 **Quatrième étape :** Nous avons été confronté à un pb avec `SMARTY` qui est un soucis de requête dans le PHP <br/>
 
-toto <br/>
+## Séance du 09/11/2020 
+
+**Etape 1 :** Refonte du projet avec les documents qui nous été fournies par le professeur, nous sommes également repartis du template Smarty de base afin de le fusionner avec l'architecture MVC fournie dans CPE e-campus. <br/>
+
+**Etape 2 :** Nous avons passé une bonne partie de la séance à comprendre le fonctionnement de Smarty <br/>
+
+**Etape 3 :** Database connected <br:>
+
+**Etape 4:** Header and footer loaded on all pages 
