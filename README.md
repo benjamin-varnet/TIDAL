@@ -21,6 +21,6 @@ Lors de cette première séance, nous nous sommes penchés sur l'installation de
 
 **Etape 2 :** Nous avons passé une bonne partie de la séance à comprendre le fonctionnement de Smarty <br/>
 
-**Etape 3 :** Database connected <br:>
+**Etape 3 :** Database connected <br/>
 
 **Etape 4:** Header and footer loaded on all pages 
