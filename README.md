@@ -24,3 +24,5 @@ Lors de cette première séance, nous nous sommes penchés sur l'installation de
 **Etape 3 :** Database connected <br/>
 
 **Etape 4:** Header and footer loaded on all pages 
+
+**Etape 5 :** Ajout du fichier maquette pour avoir une vision du projet
